@@ -1,0 +1,15 @@
+.sel{
+    font-weight: bold;
+    
+}
+.loading {
+    width: 150px;
+    height: 150px; 
+    border-radius: 10px;
+}
+.users img{
+    width: 109px;
+    height: 90px;
+    border-radius: 40px;
+    
+    };

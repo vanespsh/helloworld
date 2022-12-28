@@ -1,0 +1,18 @@
+.post {
+    padding: 10px;
+}
+.post img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.posts {
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    padding: 10px;
+}
+.posts img {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}

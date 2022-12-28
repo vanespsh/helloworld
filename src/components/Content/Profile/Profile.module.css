@@ -1,0 +1,10 @@
+.content {
+    grid-area : c;
+background-color:lavender;
+padding: 5px;
+}
+.content img {
+    width: 720px;
+    height: 200px;
+    padding: 0px;
+}
